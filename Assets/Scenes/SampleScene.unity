@@ -1219,12 +1219,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShamanScript
   speed: 2
+  crouchSpeed: 1
   animator: {fileID: 1535883539}
   rb: {fileID: 1535883543}
   sliderMaxTimer: 1
   slideSpeed: 5
   attackMaxTimer: 1
   attackCooldownTimer: 30
+  specialMaxTimer: 1
+  deathDuration: 1.5
+  damageDuration: 1
 --- !u!50 &1535883543
 Rigidbody2D:
   serializedVersion: 5
