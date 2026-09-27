@@ -7,4 +7,4 @@ https://play.unity.com/en/games/cf04a30e-5f34-4b6d-8202-1915c289df06/prova-ia-jo
 WASD e as Setas movem o Personagem\
 Use o E enquanto estiver se movendo para usar um dash\
 Clique esquerdo do mouse Ataca\
-O Shaman tem um combo de 3 ataques\
+O Shaman tem um combo de 3 ataques
